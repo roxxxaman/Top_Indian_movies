@@ -10,8 +10,8 @@ For web scraping I have used python's BeautifulSoup module.
 data is stored in Data/imdb_scrape.csv.
 
 requirements - 
-" 1. python3.6
-   2. BeautifulSoup
+" 1. python3.6, 
+   2. BeautifulSoup, 
    3. django == 1.11
 "
 # putting data into db
