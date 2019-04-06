@@ -21,6 +21,7 @@ requirements -
 - admin login - (username - timepay,
                  password - timepay2863)
 - Execution of this function would take some time.
+- I have also stored data in csv file. File is present inside the Data directory.
 
 # For starting the app
 python manage.py runserver
