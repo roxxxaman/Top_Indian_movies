@@ -27,3 +27,6 @@ requirements -
 python manage.py runserver
 
 Then in the browser, enter the url - 127.0.0.1:8000
+
+# hosted at - 
+http://aman2863.pythonanywhere.com/
