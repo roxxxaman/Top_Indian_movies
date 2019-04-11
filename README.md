@@ -3,7 +3,7 @@ data scrape - https://www.imdb.com/india/top-rated-indian-movies/
 
 demo@ - https://www.youtube.com/watch?v=YjKHvAFV3fU&t=121s
 
-I have fectched data of top 200 Indian movies from the above mentioned website.
+I have fetched data of top 200 Indian movies from the above mentioned website.
 Collected data of movies include -- movie title, year of release, rating, director, lead actors/actress, rest of the crew, language
 
 For web scraping I have used python's BeautifulSoup module.
